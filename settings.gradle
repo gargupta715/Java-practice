@@ -1,0 +1,12 @@
+rootProject.name='Java-pratice'
+include 'java-DI'
+include 'java-cloud'
+include 'java-bootstrapping'
+include 'java-DI'
+include 'java-nosql'
+include 'java-sql'
+include 'java-sql'
+include 'java-security'
+include 'java-persistence'
+include 'java-reflection'
+
